@@ -45,5 +45,5 @@ Task_5
 ![Image 1](Task_5/194.png)
 ![Image 1](Task_5/195.png)
 ![Image 1](Task_5/196.png)
-![Image 1](Task_5/183.png)
-![Image 1](Task_5/184.png)
+![Image 1](Task_5/197.png)
+![Image 1](Task_5/198.png)
