@@ -31,3 +31,19 @@ Task_4
 
 ![Image 1](Task_4/173.png)
 ![Image 1](Task_4/174.png)
+
+Task_5
+
+![Image 1](Task_5/185.png)
+![Image 1](Task_5/186.png)
+![Image 1](Task_5/187.png)
+![Image 1](Task_5/188.png)
+![Image 1](Task_5/189.png)
+![Image 1](Task_5/190.png)
+![Image 1](Task_5/191.png)
+![Image 1](Task_5/192.png)
+![Image 1](Task_5/194.png)
+![Image 1](Task_5/195.png)
+![Image 1](Task_5/196.png)
+![Image 1](Task_5/183.png)
+![Image 1](Task_5/184.png)
